@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/9b0I7Zt.gif" width="100%" />
+
 
 # 👋 Hi, I'm **Gaurav Chavan**
 ### 💻 Frontend Developer | React.js | Next.js | Redux Toolkit | UI/UX
