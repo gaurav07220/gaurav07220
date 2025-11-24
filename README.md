@@ -1,70 +1,62 @@
-<!-- Banner / Typing Intro -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00eaff">Gaurav Chavan</span></h1>
-<h3 align="center">Frontend Developer • React | Next.js | Redux Toolkit • UI Engineering</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=00E7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Redux+Toolkit+%26+State+Management;Performance+%26+SEO+Focused+Engineer;Creating+Modern+%26+Scalable+UIs">
-</p>
 
----
+# 👋 Hi, I'm **Gaurav Chavan**
+### 💻 Frontend Developer | React.js | Next.js | Redux Toolkit | UI/UX
 
-### 🔥 About Me
-💡 I build web applications that are fast, scalable, and visually polished.  
-🎯 Obsessed with performance, clean architecture & pixel-perfect UI.  
-🚀 I love transforming ideas into seamless digital experiences.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2700&color=00E7FF&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+Redux+Toolkit;UI%2FUX+Focused+Engineer;Performance+%2B+SEO+Driven;Clean+Modern+Interface+Developer)](https://git.io/typing-svg)
 
 ---
 
-### 💻 Tech Stack
-
-#### ⚛️ Frontend & Core
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass&theme=dark" />
-
-#### 🎨 UI / Design Systems
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents&theme=dark" />
-
-#### 🔧 Tools & Others
-<img src="https://skillicons.dev/icons?i=git,firebase,webpack,vscode&theme=dark" />
+## ⚡ **About Me**
+- Passionate about building clean, modern, and responsive UIs  
+- Strong expertise in **React.js, Next.js, Redux Toolkit**  
+- Love working with animations, charts, and futuristic UI  
+- Focused on **performance optimization & SEO**  
+- Always exploring modern frontend tools and design systems  
 
 ---
 
-### 🚀 Projects Snapshot
-| Project | Tech | Highlights |
-|--------|------|------------|
-| **Berrywise – AI Investment Platform** | Next.js, Redux Toolkit, ECharts | SEO-optimized, fast dashboard, +25% mobile engagement |
-| **KareAll Healthcare** | React, REST APIs, MUI | Real-time consults, +30% faster API response |
-| **Codesis Academy** | React, Tailwind | Interactive course flows, accessibility-optimized |
-| **CollectEaze Finance** | Next.js, Ant Design | Lazy loading & code splitting → faster UX navigation |
+## 🛠️ **Tech Stack**
+
+### **Languages & Core**
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-000?style=for-the-badge&logo=redux)
+
+### **UI & Styling**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-000?style=for-the-badge&logo=antdesign)
+![Material UI](https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=mui)
+
+### **Visualization & Tools**
+![ECharts](https://img.shields.io/badge/ECharts-000?style=for-the-badge&logo=apacheecharts)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack)
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav07220&theme=react&border=00eaff&ring=00eaff&fire=00eaff">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaurav07220&show_icons=true&theme=react&border_color=00eaff">
-</p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav07220&layout=compact&theme=react&border_color=00eaff">
-</p>
 
 ---
 
-### ⚡ Latest Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav07220&theme=matrix&no-frame=true&row=1&margin-w=20">
-</p>
+## 🎓 **Certifications**
+- AWS Certified Developer – Associate  
+- Full Stack Web Development (MERN)  
+- JavaScript Algorithms & Data Structures  
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-chavan-b113ab238/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-  <a href="mailto:gauravchavan05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-  <a href="https://github.com/gaurav07220"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
-</p>
+## 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gaurav-chavan-b113ab238/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:gauravchavan05@gmail.com)
 
 ---
 
-### ✨ Fun Developer Quote
-<p align="center"><b><i>“Great UI is invisible — because users feel it, not see it.”</i></b></p>
+### ⚡ *"Code. Create. Improve. Repeat."*
