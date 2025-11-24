@@ -48,7 +48,7 @@
 
 ## 🎓 **Certifications**
 - AWS Certified Developer – Associate  
-- Full Stack Web Development (MEAN)  
+- Full Stack Web Development (MERN)  
 - JavaScript Algorithms & Data Structures  
 
 ---
